@@ -7,7 +7,7 @@ ScrollReveal().reveal('.message',{
 });
 
 console.log("Script Ideled")
-console.log("Current_Verson_03_Time_:_9:14pm_Date_:_21-2-2024_Developed_By_:_Haseef_Muhammed_PC")
+console.log("Current_Verson_05_Time_:_11:00pm_Date_:_16-3-2024_Developed_By_:_Haseef_Muhammed_PC")
 
 function meet(){
     alert("No meeting available...")
